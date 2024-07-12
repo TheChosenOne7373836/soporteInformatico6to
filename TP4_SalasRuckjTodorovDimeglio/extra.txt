@@ -1,0 +1,2 @@
+Link a LookerStudio: https://lookerstudio.google.com/s/q3i9NtDvM38
+Link a BigQuerie: https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sproyectodimeglioaugustus!2schosenOne!3s700
